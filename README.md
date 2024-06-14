@@ -1,16 +1,18 @@
-## Hi there 👋
+## boas vindas ao meu repositorio:❤️
+ meu nome é thais
+estou estudando [alura](htts://www.alura.com.br)
 
-<!--
-**Thaxxta/Thaxxta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-estou me desenvolvido na linguagem ja da escrit
+-utilizo esse espaço para minha organização compartilhamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### entre em contato comigo📧
+
+Instagram:thaiss.vz
+
+
+![image](https://github.com/Thaxxta/Thaxxta/assets/172838556/02ab5592-38d3-4f79-807e-f0441991c773)
+![]()![image](https://github.com/Thaxxta/Thaxxta/assets/172838556/a66064d4-fda6-4490-8185-247f745bad3a)
+
+
+
